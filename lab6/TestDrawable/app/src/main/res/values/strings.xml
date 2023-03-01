@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestDrawable</string>
+    <string name="image_description">battery level</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Buttons" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="ButtonMinus" parent="Buttons">
+        <item name="android:src">@drawable/baseline_horizontal_rule_24</item>
+    </style>
+    <style name="ButtonPlus" parent="Buttons">
+        <item name="android:src">@drawable/baseline_add_24</item>
+    </style>
+</resources>
