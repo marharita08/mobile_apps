@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Get Web Page Source Code</string>
+    <string name="enter_url">Enter URL:</string>
+    <string name="url_example">www.example.com</string>
+    <string name="button">Get page source</string>
+    <string name="result_tip">Page source will appear here</string>
+    <string name="loading">Loading…</string>
+    <string name="no_search_term">Please enter a search term</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+    <string name="no_results">"No Results Found"</string>
+    <string-array name="protocols">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
